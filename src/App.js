@@ -44,6 +44,7 @@ function App() {
   return (
     <div className="App">
       <h1 style={{color: 'white', textAlign: 'center', margin: 0}}>NOTE: THESE ARE NOT THE FINAL PIXLS ASSIGNED</h1>
+      <h3 style={{color: 'white', textAlign: 'center', margin: 0}}>Got to <a href="https://www.getpixls.com/about">https://www.getpixls.com/about</a> for more details</h3>
       <header className="App-header">
         <form method="post" onSubmit={search}>
           <label>
