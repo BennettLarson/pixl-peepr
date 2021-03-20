@@ -1,17 +1,25 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  margin: 0px; 
+  background: #0e0e0e; 
+  height: 100%
 }
 
 .App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  /* height: 40vmin; */
+  /* pointer-events: none; */
+  -webkit-user-select: none;
+  margin: auto;
+  /* cursor: zoom-in; */
+  background-color: hsl(0, 0%, 90%);
+  transition: background-color 300ms;
 }
-
+/* 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
   background-color: #282c34;
@@ -22,6 +30,30 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.openSeaLink {
+  float: right;
+  color: white;
+  text-decoration: none
+}
+
+.leftArrow {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+}
+
+.rightArrow {
+  position: absolute;
+  top: 50%;
+  right: 20%;
+
+}
+
+
+.openSeaLink:hover {
+  color: #1BB3FF;
 }
 
 .App-link {
