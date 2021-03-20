@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pixl-peepr/static/css/main.02aaef78.chunk.css",
+    "main.js": "/pixl-peepr/static/js/main.ef0a16d9.chunk.js",
+    "main.js.map": "/pixl-peepr/static/js/main.ef0a16d9.chunk.js.map",
+    "runtime-main.js": "/pixl-peepr/static/js/runtime-main.209b53f8.js",
+    "runtime-main.js.map": "/pixl-peepr/static/js/runtime-main.209b53f8.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/pixl-peepr/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.397ae67a.chunk.js": "/pixl-peepr/static/js/2.397ae67a.chunk.js",
+    "static/js/2.397ae67a.chunk.js.map": "/pixl-peepr/static/js/2.397ae67a.chunk.js.map",
+    "static/js/3.98906bad.chunk.js": "/pixl-peepr/static/js/3.98906bad.chunk.js",
+    "static/js/3.98906bad.chunk.js.map": "/pixl-peepr/static/js/3.98906bad.chunk.js.map",
+    "index.html": "/pixl-peepr/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/pixl-peepr/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.02aaef78.chunk.css.map": "/pixl-peepr/static/css/main.02aaef78.chunk.css.map",
+    "static/js/2.397ae67a.chunk.js.LICENSE.txt": "/pixl-peepr/static/js/2.397ae67a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209b53f8.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.397ae67a.chunk.js",
+    "static/css/main.02aaef78.chunk.css",
+    "static/js/main.ef0a16d9.chunk.js"
+  ]
+}
